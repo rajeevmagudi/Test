@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./app";
+import App from "./App";
 
 const header = <h1>This is First header</h1>;
 console.log(header);
